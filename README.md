@@ -1,2 +1,2 @@
-# omidv28.github.io
+# OmidvHeravi.github.io
  Main Personal Website 
